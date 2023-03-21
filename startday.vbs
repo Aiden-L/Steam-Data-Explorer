@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c D:\0dataTest\startday.bat",0
